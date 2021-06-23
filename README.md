@@ -1,5 +1,5 @@
-### Hi there 👋               
-Welcome to my Github page !                                                                      ![](https://komarev.com/ghpvc/?username=SaurabhDhage&color=brightgreen)
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=SaurabhDhage&color=brightgreen)             
+Welcome to my Github page !    
 
 <!--
 **SaurabhDhage/SaurabhDhage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
